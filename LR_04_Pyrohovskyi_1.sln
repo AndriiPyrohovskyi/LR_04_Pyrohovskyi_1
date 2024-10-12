@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LR_04_Pyrohovskyi_1", "LR_04_Pyrohovskyi_1.vcxproj", "{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Debug|x64.ActiveCfg = Debug|x64
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Debug|x64.Build.0 = Debug|x64
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Debug|x86.Build.0 = Debug|Win32
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Release|x64.ActiveCfg = Release|x64
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Release|x64.Build.0 = Release|x64
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Release|x86.ActiveCfg = Release|Win32
+		{DBE9FFDF-8B57-4C5D-BC95-932CF6D49BA0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A55F9F-837B-48F0-BC45-0B5237EB5BD7}
+	EndGlobalSection
+EndGlobal
